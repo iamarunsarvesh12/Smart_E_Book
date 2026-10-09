@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+bin/
+WebContent/WEB-INF/classes/
+
+# Local Apache Tomcat runtime installation & logs
+.tomcat/
+*.log
+
+# Embedded H2 local database data files
+*.mv.db
+*.trace.db
+
+# OS / IDE generated files
+.DS_Store
+Thumbs.db
